@@ -2,7 +2,6 @@
 
 Estudante de Engenharia de Software na **PUC Minas**, com sólida base em desenvolvimento e metodologias ágeis.
 
----
 
 ## 🚀 Principais Projetos
 
