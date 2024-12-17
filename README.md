@@ -1,19 +1,29 @@
-## Olá! Eu sou Thiago Perdigão
+## 👋 Olá! Eu sou Thiago Perdigão
 
-Estudante de Engenharia de Software na PUC Minas, com sólida base em desenvolvimento e metodologias agéis.
+Estudante de Engenharia de Software na **PUC Minas**, com sólida base em desenvolvimento e metodologias ágeis.
 
-## Principais Projetos
+---
 
-* **[perdiGAMEZ — Site de jogos]((https://perdigame.vercel.app/))**
-**- Plataforma web **simples para pesquisa e visualização de informações sobre jogos, consumindo a API RAWG.
-**- Tecnologias: **React, Tailwind CSS.
-**-[Repositório](https://github.com/ThiagoPerdigao/perdigamez))**
-  
-* **[webMarker — Site de jogos](https://github.com/ThiagoPerdigao/webmarkermobile)**
-**Aplicativo mobile** para organização pessoal de leituras, permitindo registrar e acompanhar leituras.
-**- Tecnologias: **React Native, Expo, SQLite.
+## 🚀 Principais Projetos
 
+### **[perdiGAMEZ — Site de jogos](https://perdigame.vercel.app/)**  
+- **Plataforma web** simples para pesquisa e visualização de informações sobre jogos, consumindo a API RAWG.  
+- **Tecnologias:** React, Tailwind CSS.  
+- **[Repositório](https://github.com/ThiagoPerdigao/perdigamez)**  
 
+---
+
+### **[webMarker — Marcador de leitura](https://github.com/ThiagoPerdigao/webmarkermobile)**  
+- **Aplicativo mobile** para organização pessoal de leituras, permitindo registrar e acompanhar leituras.  
+- **Tecnologias:** React Native, Expo, SQLite.  
+
+---
+
+## 📫 Contato  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-perdigao)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagovitor299@gmail.com)  
+
+---
  
 <!--
 
