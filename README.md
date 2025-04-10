@@ -5,7 +5,7 @@ Estudante de Engenharia de Software na **PUC Minas**, com sólida base em desenv
 
 ## 🚀 Principais Projetos
 
-### **[perdiGAMEZ — Site de jogos](https://perdigame.vercel.app/)**  
+### **[perdiGAMEZ — Site de jogos](https://perdigamez.vercel.app/)**  
 - **Plataforma web** simples para pesquisa e visualização de informações sobre jogos, consumindo a API RAWG.  
 - **Tecnologias:** React, Tailwind CSS.  
 - **[Repositório](https://github.com/ThiagoPerdigao/perdigamez)**  
