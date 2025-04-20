@@ -14,13 +14,13 @@ Quer saber mais sobre mim?
 - **Tecnologias:** React, Tailwind CSS  
 - 🔗 [Ver repositório](https://github.com/ThiagoPerdigao/perdigamez)  
 
----
+
 
 ### 📚 [**webMarker — Marcador de leitura**](https://github.com/ThiagoPerdigao/webmarkermobile)  
 - Aplicativo mobile para organização pessoal de leituras, permitindo registrar e acompanhar o progresso.  
 - **Tecnologias:** React Native, Expo, SQLite  
 
----
+
 
 ## 📫 Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-perdigao) 
