@@ -5,7 +5,7 @@ Sou estudante de Engenharia de Software na **PUC Minas**, com sólida base em de
 Quer saber mais sobre mim?  
 👉 Acesse meu portfólio: [**showcase-thiago-perdigao.vercel.app**](https://showcase-thiago-perdigao.vercel.app/)
 
----
+
 
 ## 🚀 Principais Projetos
 
