@@ -52,13 +52,13 @@ Quer saber mais sobre mim?
 
 <div align="center">
   <img
-    height="175"
-    width="350"
+    height="170"
+    width="450"
     src="https://streak-stats.vercel.app/?user=ThiagoPerdigao&theme=react&hide_border=true&mode=weekly"
     alt="GitHub Streak"
   />
   <img
-    height="175"
+    height="170"
     width="350"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPerdigao&layout=compact&theme=react&exclude_repo=LAB02-EXP&hide_border=true"
     alt="Linguagens Mais Usadas"
