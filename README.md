@@ -50,24 +50,13 @@ Quer saber mais sobre mim?
 
 ## 📈 Tech Stats
 
-<div align="center">
+<p align="center">
+  <img height="175" src="https://streak-stats.vercel.app/?user=ThiagoPerdigao&theme=react&hide_border=true&mode=weekly" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPerdigao&layout=compact&theme=react&exclude_repo=LAB02-EXP&hide_border=true" />
+</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=ThiagoPerdigao&theme=midnight-purple&mode=weekly" height="175" alt="GitHub Streak">
-      </a>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoPerdigao&layout=compact&theme=midnight-purple&exclude_repo=LAB02-EXP" height="175" alt="Linguagens Mais Usadas">
-    </td>
-  </tr>
-</table>
 
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoPerdigao&bg_color=000000&color=ffffff&line=a04dfe&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoPerdigao&bg_color=20232a&color=ffffff&line=ffffff&point=00c8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
