@@ -10,7 +10,6 @@ Quer saber mais sobre mim?
 
 ---
 
----
 
 ## 🚀 Principais Projetos
 
