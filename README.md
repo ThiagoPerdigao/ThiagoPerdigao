@@ -75,7 +75,7 @@ Quer saber mais sobre mim?
 </div>
 
 
----
+
 
 ## 🚀 Tech Stack
 
