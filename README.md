@@ -14,10 +14,37 @@ Quer saber mais sobre mim?
 
 ## 🚀 Principais Projetos
 
-| | |
-|:----------|:--------|
-| <img src="media/perdiGAMEZ.png" width="250"  height="250px"  alt="perdiGAMEZ"> | <h3>🎮 <a href="https://perdigamez.vercel.app/">perdiGAMEZ — Site de jogos</a></h3> <table> <tr> <td><strong>Descrição</strong></td> <td>Plataforma web para pesquisa e visualização de informações sobre jogos, consumindo a API RAWG</td> </tr> <tr> <td><strong>Tecnologias</strong></td> <td>React, TypeScript, Tailwind CSS</td> </tr> <tr> <td><strong>Links</strong></td> <td>[Acessar Site](https://perdigamez.vercel.app/) • [Ver Repositório](https://github.com/ThiagoPerdigao/perdigamez)</td> </tr> </table> |
-| <img src="media/webmarker.png" width="250"  height="250px" alt="webMarker"> | <h3>📚 <a href="https://github.com/ThiagoPerdigao/webmarkermobile">webMarker — Marcador de leitura</a></h3> <table> <tr> <td><strong>Descrição</strong></td> <td>Aplicativo mobile para organização pessoal de leituras, permitindo registrar e acompanhar o progresso</td> </tr> <tr> <td><strong>Tecnologias</strong></td> <td>React Native, Expo, SQLite, TypeScript</td> </tr> <tr> <td><strong>Links</strong></td> <td>[Ver Repositório](https://github.com/ThiagoPerdigao/webmarkermobile)</td> </tr> </table> |
+<table>
+  <tr>
+    <td>
+      <img src="media/perdiGAMEZ.png" width="250" alt="perdiGAMEZ">
+    </td>
+    <td>
+      <h3>🎮 <a href="https://perdigamez.vercel.app/">perdiGAMEZ — Site de jogos</a></h3>
+      <p><strong>Descrição:</strong> Plataforma web para pesquisa e visualização de informações sobre jogos, consumindo a API RAWG.</p>
+      <p><strong>Tecnologias:</strong> React, TypeScript, Tailwind CSS</p>
+      <p><strong>Links:</strong> 
+        <a href="https://perdigamez.vercel.app/">Acessar Site</a> • 
+        <a href="https://github.com/ThiagoPerdigao/perdigamez">Ver Repositório</a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="media/webmarker.png" width="250" alt="webMarker">
+    </td>
+    <td>
+      <h3>📚 <a href="https://github.com/ThiagoPerdigao/webmarkermobile">webMarker — Marcador de leitura</a></h3>
+      <p><strong>Descrição:</strong> Aplicativo mobile para organização pessoal de leituras, permitindo registrar e acompanhar o progresso.</p>
+      <p><strong>Tecnologias:</strong> React Native, Expo, SQLite, TypeScript</p>
+      <p><strong>Links:</strong> 
+        <a href="https://github.com/ThiagoPerdigao/webmarkermobile">Ver Repositório</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
